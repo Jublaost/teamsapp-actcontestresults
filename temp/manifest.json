@@ -1,0 +1,47 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.11/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.11",
+  "id": "8b939f80-97c2-11ec-87d0-b9a350f28ea1",
+  "version": "0.0.1",
+  "packageName": "teamsappactcontestresults",
+  "developer": {
+    "name": "Jublaost",
+    "websiteUrl": "https://jublaost-teamsapp-actcontestresults-979w6xpxq2xr4r-3007.githubpreview.dev",
+    "privacyUrl": "https://jublaost-teamsapp-actcontestresults-979w6xpxq2xr4r-3007.githubpreview.dev/privacy.html",
+    "termsOfUseUrl": "https://jublaost-teamsapp-actcontestresults-979w6xpxq2xr4r-3007.githubpreview.dev/tou.html"
+  },
+  "name": {
+    "short": "teamsapp actcontestresults",
+    "full": "teamsapp actcontestresults"
+  },
+  "description": {
+    "short": "TODO: add short description here",
+    "full": "TODO: add full description here"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [
+    {
+      "configurationUrl": "https://jublaost-teamsapp-actcontestresults-979w6xpxq2xr4r-3007.githubpreview.dev/contestResultsTab/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
+      "canUpdateConfiguration": true,
+      "scopes": [
+        "team"
+      ]
+    }
+  ],
+  "staticTabs": [],
+  "bots": [],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "jublaost-teamsapp-actcontestresults-979w6xpxq2xr4r-3007.githubpreview.dev"
+  ],
+  "showLoadingIndicator": false
+}

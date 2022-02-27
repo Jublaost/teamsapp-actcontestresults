@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Jublaost"
+    },
+    "libraryName": "teamsappActcontestresults",
+    "generator-version": "3.5.0"
+  }
+}
