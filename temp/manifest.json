@@ -6,26 +6,26 @@
   "packageName": "teamsappactcontestresults",
   "developer": {
     "name": "Jublaost",
-    "websiteUrl": "https://jublaost-teamsapp-actcontestresults-979w6xpxq2xr4r-3007.githubpreview.dev",
-    "privacyUrl": "https://jublaost-teamsapp-actcontestresults-979w6xpxq2xr4r-3007.githubpreview.dev/privacy.html",
-    "termsOfUseUrl": "https://jublaost-teamsapp-actcontestresults-979w6xpxq2xr4r-3007.githubpreview.dev/tou.html"
+    "websiteUrl": "https://teamsappactcontestresults.azurewebsites.net",
+    "privacyUrl": "https://teamsappactcontestresults.azurewebsites.net/privacy.html",
+    "termsOfUseUrl": "https://teamsappactcontestresults.azurewebsites.net/tou.html"
   },
   "name": {
-    "short": "teamsapp actcontestresults",
-    "full": "teamsapp actcontestresults"
+    "short": "Act Contest Results",
+    "full": "Kulti22 Act Contest Results"
   },
   "description": {
-    "short": "TODO: add short description here",
-    "full": "TODO: add full description here"
+    "short": "Contest Results",
+    "full": "See the results of the act contest"
   },
   "icons": {
-    "outline": "icon-outline.png",
-    "color": "icon-color.png"
+    "outline": "Logo_Kulti22_32x32.png",
+    "color": "Logo_Kulti22_192x192.png"
   },
-  "accentColor": "#D85028",
+  "accentColor": "#ffffff",
   "configurableTabs": [
     {
-      "configurationUrl": "https://jublaost-teamsapp-actcontestresults-979w6xpxq2xr4r-3007.githubpreview.dev/contestResultsTab/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
+      "configurationUrl": "https://teamsappactcontestresults.azurewebsites.net/contestResultsTab/config.html",
       "canUpdateConfiguration": true,
       "scopes": [
         "team"
@@ -41,7 +41,7 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "jublaost-teamsapp-actcontestresults-979w6xpxq2xr4r-3007.githubpreview.dev"
+    "teamsappactcontestresults.azurewebsites.net"
   ],
   "showLoadingIndicator": false
 }

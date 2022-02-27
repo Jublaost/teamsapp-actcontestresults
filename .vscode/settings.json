@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a66c93be-8fdd-462b-9d73-37655067de33/resourceGroups/web/providers/Microsoft.Web/sites/teamsappactcontestresults",
+    "appService.deploySubpath": "."
+}

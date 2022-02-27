@@ -107,7 +107,7 @@ export const ContestResultsTab = () => {
     return (
         <Provider theme={theme}>
             <Flex fill={true} column hAlign="center" vAlign="center" styles={{
-                padding: ".8rem 0 .8rem .5rem", backgroundColor: "transparent"
+                padding: ".8rem 0 .8rem .5rem", backgroundColor: "#f5f5f5"
             }}>
                 <Flex.Item>
                     <Header content="Act Competition Results" />
